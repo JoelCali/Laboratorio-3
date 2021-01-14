@@ -99,7 +99,8 @@ proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivam
   
   Despues de realizar el teorema de superposición tanto calculado como medido en tinkercad, se llega a una conclusión que se cumple el teorema, pero se tiene un mínimo error porcentual que se debe a los decimales que no se toman en cuenta, en el caso de la simulación, el programa redondea a dos decimales y cuando realizamos los valores calculados, tomamos más decimales pero aun asi se pierden muchos de estos, ademas es un número muy cercano y tienen relación entre ellos. El error porcentual que se tiene en cada caso es el siguiente.
   
-  
+  ![image](https://user-images.githubusercontent.com/76132461/104661563-c7141f80-5696-11eb-8b86-fbb62480e24d.png)
+
   6.- Conclusiones
   
   
