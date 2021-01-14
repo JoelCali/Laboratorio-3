@@ -89,6 +89,24 @@ proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivam
   
   Tabla 4.1. Medición de voltaje aplicando superposición.
   
+  ![image](https://user-images.githubusercontent.com/76132461/104659536-ce392e80-5692-11eb-8e7f-160695ea1214.png)
+  
+  Tabla 4.2. Medición de corriente aplicando superposición.
+  
+  ![image](https://user-images.githubusercontent.com/76132461/104659594-e5781c00-5692-11eb-8e32-585f88a883ea.png)
+  
+  5.5.- Verifique el cumplimiento del Teorema de Superposición y compare los resultados obtenidos prácticamente con los obtenidos analíticamente. Realice sus conclusiones.
+  
+  Despues de realizar el teorema de superposición tanto calculado como medido en tinkercad, se llega a una conclusión que se cumple el teorema, pero se tiene un mínimo error porcentual que se debe a los decimales que no se toman en cuenta, en el caso de la simulación, el programa redondea a dos decimales y cuando realizamos los valores calculados, tomamos más decimales pero aun asi se pierden muchos de estos, ademas es un número muy cercano y tienen relación entre ellos. El error porcentual que se tiene en cada caso es el siguiente.
+  
+  
+  6.- Conclusiones
+  
+  
+  7.- Bibliografía
+
+  Floyd, T.L. (2007). Principios de circuitos eléctricos (Octava ed.)
+  
   
 
 
