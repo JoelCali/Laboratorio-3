@@ -23,7 +23,8 @@
     ![image](https://user-images.githubusercontent.com/76132461/104648975-f79d8e80-5681-11eb-9271-e80699e91f64.png)
     
     - Corriente en IX:
-    
+   
+   ![image](https://user-images.githubusercontent.com/76132461/104650930-f0c44b00-5684-11eb-8728-95bcda22bb20.png) 
     
     - Voltaje en VA cuando Fuente 12 V= 0:
     
@@ -31,6 +32,7 @@
     
     - Corriente en IX cuando Fuente 12 V=0:
     
+    ![image](https://user-images.githubusercontent.com/76132461/104650987-06d20b80-5685-11eb-8d13-0ad0adfc8f49.png)
     
     - Voltaje en VA cuando Fuente de 20 V=0:
     
@@ -38,4 +40,4 @@
     
     - Corriente en IX cuando Fuente de 20 V=0:
     
-    
+    ![image](https://user-images.githubusercontent.com/76132461/104651035-18b3ae80-5685-11eb-8b15-e6faac03c23b.png)
