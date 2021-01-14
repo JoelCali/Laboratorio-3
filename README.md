@@ -44,3 +44,44 @@
     
     4.- Lista de componentes
     
+    ![image](https://user-images.githubusercontent.com/76132461/104652024-7c8aa700-5686-11eb-9f38-c312bb53b8d4.png)
+
+    5.- Explicación
+    
+    5.1.- Procedimiento
+    
+    1. Se ingresa a la plataforma Tinkercad, se crea una cuenta, a continuación en el apartado de circuitos seleccionar nuevo circuito.
+    
+    2. Se seleccionan los materiales que vamos a utilizar, una placa de pruebas, 4 resistencias, multimetros digitales y dos fuente de voltaje.
+    
+    3. En la primera fuente de voltaje, se la configura con 20 V, mientras que la segunda fuente de voltaje tendrá un valor de 12 V.
+    
+    4. Se procede a configurar cada resistencia con el valor ya establecido en el circuito.
+
+    5. La fuente de voltaje de 20 V, el lado positivo ira hacia un extremo de la resistecia de 1K ohms.
+    
+    6. Del otro extremo de la resistencia de 1K ohms se conectará a un extremo de la resistencia de 820 ohms.
+    
+    7. Del nodo formado por estos dos elementos se conectará una resistencia de 2.2k ohms.
+    
+    8. Del lado negativo de la fuente de 20 V, se conectará al extremo de la resistencia de 2.2k ohms.
+    
+    9. Del extremo de la resistencia de 820 ohm, se conectará una resistencia de 470 ohm.
+    
+    10. Del extremo de la resistencia de 470 ohm, se conectará con la resistencia de 2.2k ohm.
+    
+    11 La fuente de voltaje de 12 V, se conectará en paralelo a la resistencia de 470 ohm.
+
+
+
+
+
+
+    
+    
+    
+    
+    
+    
+    
+    
