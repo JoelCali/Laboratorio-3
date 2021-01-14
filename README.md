@@ -41,3 +41,6 @@
     - Corriente en IX cuando Fuente de 20 V=0:
     
     ![image](https://user-images.githubusercontent.com/76132461/104651035-18b3ae80-5685-11eb-8b15-e6faac03c23b.png)
+    
+    4.- Lista de componentes
+    
