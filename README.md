@@ -16,3 +16,29 @@
     
     - Circuito General.
     
+    ![image](https://user-images.githubusercontent.com/76132461/104648944-ee142680-5681-11eb-9ae3-aa223f3561aa.png)
+    
+    - Voltaje en VA:
+    
+    ![image](https://user-images.githubusercontent.com/76132461/104648975-f79d8e80-5681-11eb-9271-e80699e91f64.png)
+    
+    - Corriente en IX:
+    
+    ![image](https://user-images.githubusercontent.com/76132461/104649017-02582380-5682-11eb-9d7d-b3eb00ec111e.png)
+    
+    - Voltaje en VA cuando Fuente 12 V= 0:
+    
+    ![image](https://user-images.githubusercontent.com/76132461/104649027-0a17c800-5682-11eb-9ba8-1d390570b103.png)
+    
+    - Corriente en IX cuando Fuente 12 V=0:
+    
+    ![image](https://user-images.githubusercontent.com/76132461/104649041-0edc7c00-5682-11eb-8f68-ae5f50b8ee63.png)
+    
+    - Voltaje en VA cuando Fuente de 20 V=0:
+    
+    ![image](https://user-images.githubusercontent.com/76132461/104649058-14d25d00-5682-11eb-9528-bf97bbbe59d2.png)
+    
+    - Corriente en IX cuando Fuente de 20 V=0:
+    
+    ![image](https://user-images.githubusercontent.com/76132461/104649068-19971100-5682-11eb-8324-7dda77d6416e.png)
+    
