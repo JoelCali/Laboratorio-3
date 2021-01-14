@@ -70,7 +70,26 @@
     
     10. Del extremo de la resistencia de 470 ohm, se conectará con la resistencia de 2.2k ohm.
     
-    11 La fuente de voltaje de 12 V, se conectará en paralelo a la resistencia de 470 ohm.
+    11. La fuente de voltaje de 12 V, se conectará en paralelo a la resistencia de 470 ohm.
+    
+    5.2.- Con las dos fuentes conectadas, mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
+    
+   Para medir el voltaje en VA se conectará en paralelo a la resistencia de 820 ohmios. 
+   Para medir la intensidad en IX se debe conectar en serie desde el positivo de la fuente de 12 V y el otro lado del amperímetro a la resistencia de 470 ohmios.
+    
+    5.3.- Haga “cero” la fuente de voltaje de 12 V (V2) y mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se
+proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
+
+   En este punto se debe dejar las conexiones del amperimetro y el voltímetro, salvo que la fuente que tenemos del lado derecho que es de 12 V, se vuelve 0 y se anota los valores en la tabla.
+   
+   5.4.- Haga “cero” la fuente de voltaje de 20 V (V1) y mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se
+proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
+
+  Para este literal se debe dejar las conexiones del amperimetro y el voltímetro, salvo que la fuente que tenemos del lado izquierdo que es de 20 V, se vuelve 0 y se anota los valores en la tabla.
+  
+  Tabla 4.1. Medición de voltaje aplicando superposición.
+  
+  
 
 
 
