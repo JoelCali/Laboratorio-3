@@ -108,6 +108,13 @@ proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivam
 
   6.- Conclusiones
   
+  -Concluimos que cuando se aplica el método de superposición es muy importante la dirección y sentido en el que fluye la corriente, debido a que así se puede cuando entra en un nodo o no y el signo (positivo o negativo) al momento de realizar las mediciones u operaciones.
+  
+-Analizando el comportamiento del circuito cuando una de sus fuentes se vuelve “cero”, observamos que este se divide en dos valores distintos los cuales serán claves al realizar la operación de superponerlos ya que otorgaron un resultado igual al de las dos fuentes encendidas.
+
+-Realizando los cálculos pertinentes de ambos circuitos concluimos que los valores obtenidos solo tienen un margen de error menor a 1.15% referente a voltajes y un valor menor de 0.11% referente a corrientes, el cual nos indica que tanto cálculos como simulación obtuvieron valores no muy alejados.
+
+  
   
   7.- Bibliografía
 
